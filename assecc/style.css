@@ -6,6 +6,7 @@ html {
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
+  font-weight: 200;
 }
 body {
   height: 100vh;
